@@ -1,0 +1,16 @@
+[
+{
+  "modid": "thirstoverlay",
+  "name": "Thirst Overlay",
+  "description": "Overlay for MineZ thirst",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TrenTech"],
+  "credits": "The Forge and FML guys, for making forge and fml",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
